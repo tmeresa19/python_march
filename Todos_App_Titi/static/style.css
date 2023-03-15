@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+p{
+    background-color: rebeccapurple;
+    color: antiquewhite;
+    padding: 20px;
+    display: inline-block;
+}
